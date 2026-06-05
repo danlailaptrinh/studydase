@@ -1,0 +1,6 @@
+{
+  "name": "Studycase AI",
+  "description": "Pixel-perfect Studycase AI student dashboard featuring real-time task management, progress trends, dynamic learning aids, and interactive study statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
